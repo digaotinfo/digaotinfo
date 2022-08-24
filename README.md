@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/dig%C3%A3o-b9249084/" title="LinkedIn" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/dig%C3%A3o-b9249084/" title="LinkedIn" alt="LinkedIn" target="_blank">
   <img alt="Digao-linkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
